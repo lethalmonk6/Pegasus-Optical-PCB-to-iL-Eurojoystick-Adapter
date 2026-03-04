@@ -1,7 +1,7 @@
 # Pegasus-Optical-PCB-to-iL-Eurojoystick-Adapter
 3d printed adapter to mount Pegasus Optical PCB onto an Industrials Lorenzo Eurojoystick
 19mm or 20mm actuators can be used to adjust to throw preference.
-Reuse original mounting screws and eclip to install the adapter and PCB.
+Reuse original mounting screws and eclip to install the adapter, actuator, and PCB.
 
 Tested only with Pegasus Games Optical PCB, it may work with other optical PCBs but has not been tested.
 
