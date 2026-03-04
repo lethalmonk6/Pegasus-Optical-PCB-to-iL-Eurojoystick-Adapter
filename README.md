@@ -9,7 +9,7 @@
 
 
 
-To install, reuse original mounting screws and eclip to install the adapter, actuator, and PCB.
+To install, print two adapters and reuse original mounting screws and eclip to install the adapter, actuator, and PCB.
 
 <img width="229" height="503" alt="image" src="https://github.com/user-attachments/assets/62ebb87d-7b75-4b88-9c20-978fd4a46301" />
 
