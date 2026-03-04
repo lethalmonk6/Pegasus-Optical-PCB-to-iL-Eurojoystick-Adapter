@@ -8,8 +8,11 @@
 <img width="685" height="913" alt="image" src="https://github.com/user-attachments/assets/c0124bca-3d8f-41bf-920d-5318240e4183" />
 
 
+
 To install, reuse original mounting screws and eclip to install the adapter, actuator, and PCB.
-<img width="917" height="2012" alt="image" src="https://github.com/user-attachments/assets/784213d1-8d9c-4dc8-8d88-9f188d149f80" />
+
+<img width="229" height="503" alt="image" src="https://github.com/user-attachments/assets/62ebb87d-7b75-4b88-9c20-978fd4a46301" />
+
 
 
 Tested only with Pegasus Games Optical PCB, it may work with other optical PCBs but has not been tested.
